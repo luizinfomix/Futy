@@ -1,0 +1,3227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SporTV [Brazil]">
+    <display-name lang="pt">SporTV [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2 [Brazil]">
+    <display-name lang="pt">SporTV 2 [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 3 [Brazil]">
+    <display-name lang="pt">SporTV 3 [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo [Brazil]">
+    <display-name lang="pt">Esporte Interativo [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Premiere Clubes [Brazil]">
+    <display-name lang="pt">Premiere Clubes [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports [Brazil]">
+    <display-name lang="pt">Fox Sports [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180603210000 -0300" stop="20180603230000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Troca de Passes - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180603230000 -0300" stop="20180604000000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604000000 -0300" stop="20180604010000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604010000 -0300" stop="20180604020000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604020000 -0300" stop="20180604030000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604030000 -0300" stop="20180604040000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604040000 -0300" stop="20180604050000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Bélgica x Portugal</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604050000 -0300" stop="20180604053000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604053000 -0300" stop="20180604063000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604063000 -0300" stop="20180604073000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604073000 -0300" stop="20180604083000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604083000 -0300" stop="20180604090000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604090000 -0300" stop="20180604094500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Planeta SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604094500 -0300" stop="20180604120000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Redação SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604120000 -0300" stop="20180604124500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">É Gol! - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604124500 -0300" stop="20180604160000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Seleção SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604160000 -0300" stop="20180604170000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Giro da Rodada - Vivo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604170000 -0300" stop="20180604183000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Tá na Área - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604183000 -0300" stop="20180604200000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604200000 -0300" stop="20180604220000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Paraná x Fluminense -  Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604220000 -0300" stop="20180605000000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Bem, Amigos! - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605000000 -0300" stop="20180605010000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605010000 -0300" stop="20180605020000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605020000 -0300" stop="20180605030000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605030000 -0300" stop="20180605040000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Bélgica x Portugal</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605040000 -0300" stop="20180605043000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Revista da FIFA</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605043000 -0300" stop="20180605053000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605053000 -0300" stop="20180605063000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605063000 -0300" stop="20180605073000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605073000 -0300" stop="20180605083000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605083000 -0300" stop="20180605090000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605090000 -0300" stop="20180605094500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Planeta SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605094500 -0300" stop="20180605120000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Redação SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605120000 -0300" stop="20180605124500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">É Gol! - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605124500 -0300" stop="20180605160000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Seleção SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605160000 -0300" stop="20180605170000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Giro da Rodada - Vivo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605170000 -0300" stop="20180605183000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Tá na Área - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605183000 -0300" stop="20180605191500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605191500 -0300" stop="20180605211500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Coritiba x CRB - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605211500 -0300" stop="20180605213000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605213000 -0300" stop="20180605233000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Ponte Preta x Goiás - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605233000 -0300" stop="20180606010000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Troca de Passes - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606010000 -0300" stop="20180606020000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606020000 -0300" stop="20180606030000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606030000 -0300" stop="20180606040000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606040000 -0300" stop="20180606043000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Revista da FIFA</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606043000 -0300" stop="20180606053000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606053000 -0300" stop="20180606063000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Atlético MG x Chapecoense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606063000 -0300" stop="20180606073000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606073000 -0300" stop="20180606083000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606083000 -0300" stop="20180606090000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606090000 -0300" stop="20180606094500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Planeta SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606094500 -0300" stop="20180606120000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Redação SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606120000 -0300" stop="20180606124500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">É Gol! - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606124500 -0300" stop="20180606160000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Seleção SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606160000 -0300" stop="20180606170000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Giro da Rodada - Vivo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606170000 -0300" stop="20180606180000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Tá na Área - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606180000 -0300" stop="20180606193000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606193000 -0300" stop="20180606213000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Botafogo x Ceará - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606213000 -0300" stop="20180606234500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Futebol Campeão - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606234500 -0300" stop="20180607010000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Troca de Passes - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607010000 -0300" stop="20180607020000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607020000 -0300" stop="20180607030000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Botafogo x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607030000 -0300" stop="20180607040000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607040000 -0300" stop="20180607043000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Revista da FIFA</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607043000 -0300" stop="20180607053000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607053000 -0300" stop="20180607063000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607063000 -0300" stop="20180607073000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607073000 -0300" stop="20180607083000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607083000 -0300" stop="20180607090000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607090000 -0300" stop="20180607094500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Planeta SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607094500 -0300" stop="20180607120000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Redação SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607120000 -0300" stop="20180607124500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">É Gol! - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607124500 -0300" stop="20180607160000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Seleção SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607160000 -0300" stop="20180607170000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Giro da Rodada - Vivo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607170000 -0300" stop="20180607190000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Islândia x Gana - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607190000 -0300" stop="20180607200000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Tá na Área - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607200000 -0300" stop="20180607210000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607210000 -0300" stop="20180607230000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">América MG x Atlético MG - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607230000 -0300" stop="20180608003000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Troca de Passes - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608003000 -0300" stop="20180608013000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608013000 -0300" stop="20180608023000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608023000 -0300" stop="20180608033000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608033000 -0300" stop="20180608043000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608043000 -0300" stop="20180608053000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608053000 -0300" stop="20180608063000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608063000 -0300" stop="20180608073000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608073000 -0300" stop="20180608083000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608083000 -0300" stop="20180608090000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608090000 -0300" stop="20180608094500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Planeta SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608094500 -0300" stop="20180608120000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Redação SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608120000 -0300" stop="20180608124500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">É Gol! - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608124500 -0300" stop="20180608154500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Seleção SporTV - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608154500 -0300" stop="20180608174500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Polônia x Chile - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608174500 -0300" stop="20180608183000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Tá na Área - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608183000 -0300" stop="20180608191500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608191500 -0300" stop="20180608211500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Londrina x Juventude - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608211500 -0300" stop="20180608213000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608213000 -0300" stop="20180608233000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Avaí x Coritiba - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608233000 -0300" stop="20180609010000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Troca de Passes - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609010000 -0300" stop="20180609013000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Missão 2018</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180609013000 -0300" stop="20180609023000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609023000 -0300" stop="20180609033000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609033000 -0300" stop="20180609040000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609040000 -0300" stop="20180609043000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Missão 2018</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180609043000 -0300" stop="20180609053000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609053000 -0300" stop="20180609063000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609063000 -0300" stop="20180609073000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609073000 -0300" stop="20180609083000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609083000 -0300" stop="20180609093000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609093000 -0300" stop="20180609103000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609103000 -0300" stop="20180609114500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609114500 -0300" stop="20180609121500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609121500 -0300" stop="20180609140000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Liga Nacional de Futsal: Carlos Barbosa x Corinthians - Vivo</title>
+    <category lang="pt">Esporte/Futebol de Salão</category>
+  </programme>
+  <programme start="20180609140000 -0300" stop="20180609151500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Tá na Área - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609151500 -0300" stop="20180609154500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609154500 -0300" stop="20180609174500 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Espanha x Tunísia - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609174500 -0300" stop="20180609190000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609190000 -0300" stop="20180609210000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Vasco x Sport - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609210000 -0300" stop="20180609230000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">Troca de Passes - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609230000 -0300" stop="20180610000000 -0300" channel="SporTV [Brazil]">
+    <title lang="pt">VT - Chapecoense x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180603211000 -0300" stop="20180603220000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180603220000 -0300" stop="20180603230000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180603230000 -0300" stop="20180603233000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Jogada de Chef</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180603233000 -0300" stop="20180604013000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Filme Oficial da Copa do Mundo de 1994</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604013000 -0300" stop="20180604020000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">As Matrioskas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180604020000 -0300" stop="20180604030000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604030000 -0300" stop="20180604040000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604040000 -0300" stop="20180604050000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604050000 -0300" stop="20180604060000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Internacional x Sport</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604060000 -0300" stop="20180604070000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604070000 -0300" stop="20180604080000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604080000 -0300" stop="20180604090000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604090000 -0300" stop="20180604100000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604100000 -0300" stop="20180604110000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604110000 -0300" stop="20180604120000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604120000 -0300" stop="20180604130000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604130000 -0300" stop="20180604131000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604131000 -0300" stop="20180604141000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604141000 -0300" stop="20180604142000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604142000 -0300" stop="20180604152000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604152000 -0300" stop="20180604153000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604153000 -0300" stop="20180604163000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604163000 -0300" stop="20180604164000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604164000 -0300" stop="20180604174000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604174000 -0300" stop="20180604180000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604180000 -0300" stop="20180604190000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604190000 -0300" stop="20180604191000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604191000 -0300" stop="20180604204000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604204000 -0300" stop="20180604205000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604205000 -0300" stop="20180604210000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Pré - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604210000 -0300" stop="20180604220000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Sorteio Taça Libertadores Da América: Paraguai - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604220000 -0300" stop="20180605003000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">NBA: G. S. Warriors x Cleveland Cavaliers</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180605003000 -0300" stop="20180605013000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605013000 -0300" stop="20180605023000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605023000 -0300" stop="20180605030000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605030000 -0300" stop="20180605050000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Bem, Amigos!</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605050000 -0300" stop="20180605070000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Rússia x Eua - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180605070000 -0300" stop="20180605081500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605081500 -0300" stop="20180605083000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605083000 -0300" stop="20180605103000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: China x Brasil - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180605103000 -0300" stop="20180605113000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605113000 -0300" stop="20180605133000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Itália x Sérvia - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180605133000 -0300" stop="20180605134000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605134000 -0300" stop="20180605143000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605143000 -0300" stop="20180605150000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605150000 -0300" stop="20180605151000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605151000 -0300" stop="20180605160000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605160000 -0300" stop="20180605161000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605161000 -0300" stop="20180605171000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Bélgica x Portugal</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605171000 -0300" stop="20180605172000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605172000 -0300" stop="20180605182000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605182000 -0300" stop="20180605183000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605183000 -0300" stop="20180605193000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605193000 -0300" stop="20180605194000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605194000 -0300" stop="20180605204000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605204000 -0300" stop="20180605205000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605205000 -0300" stop="20180605215000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605215000 -0300" stop="20180605220000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605220000 -0300" stop="20180605230000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605230000 -0300" stop="20180605231000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605231000 -0300" stop="20180606003000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606003000 -0300" stop="20180606013000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606013000 -0300" stop="20180606023000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606023000 -0300" stop="20180606033000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Bélgica x Portugal</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606033000 -0300" stop="20180606044500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Paraná x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606044500 -0300" stop="20180606050000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606050000 -0300" stop="20180606073000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Eua x Brasil - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180606073000 -0300" stop="20180606083000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606083000 -0300" stop="20180606110000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: China x Rússia - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180606110000 -0300" stop="20180606120000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606120000 -0300" stop="20180606130000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606130000 -0300" stop="20180606131000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606131000 -0300" stop="20180606141000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606141000 -0300" stop="20180606142000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606142000 -0300" stop="20180606152500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Bélgica x Portugal</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606152500 -0300" stop="20180606154500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606154500 -0300" stop="20180606174500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Bélgica x Egito - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606174500 -0300" stop="20180606180000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606180000 -0300" stop="20180606190000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606190000 -0300" stop="20180606191000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606191000 -0300" stop="20180606201000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606201000 -0300" stop="20180606202000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606202000 -0300" stop="20180606212000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606212000 -0300" stop="20180606213000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606213000 -0300" stop="20180606223000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Bélgica x Egito</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606223000 -0300" stop="20180606224000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606224000 -0300" stop="20180606234500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Botafogo x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606234500 -0300" stop="20180607000000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607000000 -0300" stop="20180607010000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607010000 -0300" stop="20180607020000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607020000 -0300" stop="20180607033000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607033000 -0300" stop="20180607044500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607044500 -0300" stop="20180607050000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607050000 -0300" stop="20180607073000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Brasil x Rússia - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180607073000 -0300" stop="20180607083000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607083000 -0300" stop="20180607103000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: China x Eua - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180607103000 -0300" stop="20180607113000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607113000 -0300" stop="20180607123000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607123000 -0300" stop="20180607133000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607133000 -0300" stop="20180607143000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607143000 -0300" stop="20180607161000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Holanda x Sérvia - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180607161000 -0300" stop="20180607162000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607162000 -0300" stop="20180607172000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">UFC 224 - Nunes x Pennington</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180607172000 -0300" stop="20180607173000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607173000 -0300" stop="20180607183000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">UFC: Till x Thompson</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180607183000 -0300" stop="20180607190000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607190000 -0300" stop="20180607191000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607191000 -0300" stop="20180607201000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607201000 -0300" stop="20180607202000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607202000 -0300" stop="20180607212000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607212000 -0300" stop="20180607213000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607213000 -0300" stop="20180607225000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607225000 -0300" stop="20180607230000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607230000 -0300" stop="20180608000000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608000000 -0300" stop="20180608023000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">NBA</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180608023000 -0300" stop="20180608033000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608033000 -0300" stop="20180608043000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608043000 -0300" stop="20180608053000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608053000 -0300" stop="20180608063000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Bélgica x Egito</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608063000 -0300" stop="20180608073000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608073000 -0300" stop="20180608083000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608083000 -0300" stop="20180608093000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608093000 -0300" stop="20180608104500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608104500 -0300" stop="20180608110000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608110000 -0300" stop="20180608130000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga Das Nações De Vôlei Masculino: Rússia x Brasil - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180608130000 -0300" stop="20180608131000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608131000 -0300" stop="20180608143500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608143500 -0300" stop="20180608144500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608144500 -0300" stop="20180608150000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Pré - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608150000 -0300" stop="20180608163000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Fórmula 1: 2º Treino Livre - GP do Canadá - Vivo</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180608163000 -0300" stop="20180608164000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608164000 -0300" stop="20180608173000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Countdown UFC 225 - Whittaker x Romero</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180608173000 -0300" stop="20180608174000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608174000 -0300" stop="20180608194000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga Das Nações De Vôlei Masculino: Alemanha x Eua - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180608194000 -0300" stop="20180608200000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608200000 -0300" stop="20180608205000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Pesagem UFC 225 - Whittaker x Romero - Ao Vivo</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180608205000 -0300" stop="20180608210500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608210500 -0300" stop="20180608230500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">MLS: Philadelphia Union x Toronto Fc - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608230500 -0300" stop="20180608231500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">SporTV News - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608231500 -0300" stop="20180609013000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga Das Nações De Vôlei Masculino: Rússia x Brasil</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180609013000 -0300" stop="20180609023000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609023000 -0300" stop="20180609033000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609033000 -0300" stop="20180609041000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180609041000 -0300" stop="20180609043000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Copa Do Mundo de Basquete 3x3: Brasil x Filipinas - Vivo</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180609043000 -0300" stop="20180609053000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609053000 -0300" stop="20180609060000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">NBA Action</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180609060000 -0300" stop="20180609063000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Copa Do Mundo de Basquete 3x3 - Vivo</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180609063000 -0300" stop="20180609073000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609073000 -0300" stop="20180609081500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609081500 -0300" stop="20180609083000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609083000 -0300" stop="20180609103000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Liga Das Nações De Vôlei Masculino: Irã x Brasil - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180609103000 -0300" stop="20180609114500 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609114500 -0300" stop="20180609120000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Pré - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609120000 -0300" stop="20180609130000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Fórmula 1: 3º Treino Livre - GP do Canadá - Vivo</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180609130000 -0300" stop="20180609140000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609140000 -0300" stop="20180609160000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">NBB: Paulistano x Mogi Das Cruzes - Vivo</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180609160000 -0300" stop="20180609180000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">França x EUA - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609180000 -0300" stop="20180609190000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Troca de Passes - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609190000 -0300" stop="20180609193000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Boxe Internacional: Robson Conceição x Alex Torres Rynn</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180609193000 -0300" stop="20180609203000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">UFC 225 - Whittaker x Romero - Ao Vivo</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180609203000 -0300" stop="20180609210000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609210000 -0300" stop="20180609230000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Brasil RS x Ponte Preta - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609230000 -0300" stop="20180610020000 -0300" channel="SporTV 2 [Brazil]">
+    <title lang="pt">Boxe Internacional: Crawford x Horn - Vivo</title>
+    <category lang="pt">Esporte/Boxe</category>
+  </programme>
+  <programme start="20180603210000 -0300" stop="20180603220000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180603220000 -0300" stop="20180603230000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180603230000 -0300" stop="20180604000000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604000000 -0300" stop="20180604020000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Liga Das Nações De Vôlei Masculino: Brasil x Eua</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180604020000 -0300" stop="20180604030000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - América MG x Atlético PR</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604030000 -0300" stop="20180604040000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Atlético MG x Chapecoense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604040000 -0300" stop="20180604050000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604050000 -0300" stop="20180604060000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604060000 -0300" stop="20180604070000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Mundial de Motovelocidade</title>
+    <category lang="pt">Esporte/Motociclismo</category>
+  </programme>
+  <programme start="20180604070000 -0300" stop="20180604080000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604080000 -0300" stop="20180604090000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604090000 -0300" stop="20180604100000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604100000 -0300" stop="20180604110000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604110000 -0300" stop="20180604120000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bélgica x Portugal</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604120000 -0300" stop="20180604130000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604130000 -0300" stop="20180604140000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604140000 -0300" stop="20180604150000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604150000 -0300" stop="20180604160000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604160000 -0300" stop="20180604170000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bélgica x Portugal</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604170000 -0300" stop="20180604190000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Liga Das Nações De Vôlei Masculino: Brasil x Eua</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180604190000 -0300" stop="20180604200000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604200000 -0300" stop="20180604220000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">UFC: Rivera x Moraes</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180604220000 -0300" stop="20180605000000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Faixa Sportv Combate</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180605000000 -0300" stop="20180605010000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605010000 -0300" stop="20180605020000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Paraná x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605020000 -0300" stop="20180605030000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Atlético MG x Chapecoense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605030000 -0300" stop="20180605040000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605040000 -0300" stop="20180605050000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605050000 -0300" stop="20180605060000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605060000 -0300" stop="20180605070000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605070000 -0300" stop="20180605080000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bélgica x Portugal</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605080000 -0300" stop="20180605090000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605090000 -0300" stop="20180605100000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605100000 -0300" stop="20180605110000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605110000 -0300" stop="20180605120000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605120000 -0300" stop="20180605130000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Atlético MG x Chapecoense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605130000 -0300" stop="20180605140000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605140000 -0300" stop="20180605160000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">UFC: Rivera x Moraes</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180605160000 -0300" stop="20180605170000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Paraná x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605170000 -0300" stop="20180605180000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605180000 -0300" stop="20180605183000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">NBA Inside Stuff</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180605183000 -0300" stop="20180605203000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: China x Brasil</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180605203000 -0300" stop="20180605213000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605213000 -0300" stop="20180605223000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605223000 -0300" stop="20180605233000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bélgica x Portugal</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605233000 -0300" stop="20180606003000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606003000 -0300" stop="20180606030000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">NBA</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180606030000 -0300" stop="20180606050000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Bem, Amigos!</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606050000 -0300" stop="20180606060000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606060000 -0300" stop="20180606070000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606070000 -0300" stop="20180606080000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606080000 -0300" stop="20180606090000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Paraná x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606090000 -0300" stop="20180606100000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606100000 -0300" stop="20180606110000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606110000 -0300" stop="20180606113000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606113000 -0300" stop="20180606123000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">UFC: Machida x Anders</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606123000 -0300" stop="20180606133000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">UFC 224 - Nunes x Pennington</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180606133000 -0300" stop="20180606143000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">UFC: Till x Thompson</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180606143000 -0300" stop="20180606163000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Holanda x Itália - Vivo</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180606163000 -0300" stop="20180606173000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606173000 -0300" stop="20180606183000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606183000 -0300" stop="20180606193000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606193000 -0300" stop="20180606213000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Eua x Brasil</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180606213000 -0300" stop="20180607000000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">UFC: Rivera x Moraes</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180607000000 -0300" stop="20180607010000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607010000 -0300" stop="20180607020000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Sport x Atlético PR</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607020000 -0300" stop="20180607030000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Vitória x Chapecoense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607030000 -0300" stop="20180607050000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">NBB: Mogi Das Cruzes x Paulistano</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180607050000 -0300" stop="20180607060000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bélgica x Egito</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607060000 -0300" stop="20180607070000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Sport x Atlético PR</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607070000 -0300" stop="20180607080000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607080000 -0300" stop="20180607090000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Botafogo x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607090000 -0300" stop="20180607100000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607100000 -0300" stop="20180607150000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">UFC: Rivera x Moraes</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180607150000 -0300" stop="20180607160000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607160000 -0300" stop="20180607170000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607170000 -0300" stop="20180607180000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607180000 -0300" stop="20180607190000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607190000 -0300" stop="20180607210000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Brasil x Rússia</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180607210000 -0300" stop="20180607220000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Brasil x Croácia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607220000 -0300" stop="20180607230000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607230000 -0300" stop="20180608000000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bélgica x Egito</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608000000 -0300" stop="20180608010000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608010000 -0300" stop="20180608020000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608020000 -0300" stop="20180608030000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Paraná x Bahia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608030000 -0300" stop="20180608050000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Brasil x Rússia</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20180608050000 -0300" stop="20180608060000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Superbike: Paraná</title>
+    <category lang="pt">Esporte/Motociclismo</category>
+  </programme>
+  <programme start="20180608060000 -0300" stop="20180608070000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Mundial de Motovelocidade</title>
+    <category lang="pt">Esporte/Motociclismo</category>
+  </programme>
+  <programme start="20180608070000 -0300" stop="20180608080000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608080000 -0300" stop="20180608090000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608090000 -0300" stop="20180608100000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608100000 -0300" stop="20180608104500 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608104500 -0300" stop="20180608110000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Pré - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608110000 -0300" stop="20180608123000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Fórmula 1: 1º Treino Livre - GP do Canadá - Vivo</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180608123000 -0300" stop="20180608133000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608133000 -0300" stop="20180608143000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608143000 -0300" stop="20180608153000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608153000 -0300" stop="20180608163000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608163000 -0300" stop="20180608173000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608173000 -0300" stop="20180608183000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608183000 -0300" stop="20180608190000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">NBA Action</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180608190000 -0300" stop="20180608200000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608200000 -0300" stop="20180608210000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608210000 -0300" stop="20180608220000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608220000 -0300" stop="20180608230000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - França x Itália</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608230000 -0300" stop="20180609000000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Bélgica x Egito</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609000000 -0300" stop="20180609010000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609010000 -0300" stop="20180609020000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609020000 -0300" stop="20180609030000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609030000 -0300" stop="20180609033000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">NBA Action</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180609033000 -0300" stop="20180609043000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609043000 -0300" stop="20180609053000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Botafogo x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609053000 -0300" stop="20180609060000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">UFC: Cerrone x Medeiros</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180609060000 -0300" stop="20180609070000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">UFC 224 - Nunes x Pennington</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180609070000 -0300" stop="20180609080000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">UFC: Till x Thompson</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180609080000 -0300" stop="20180609090000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609090000 -0300" stop="20180609100000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609100000 -0300" stop="20180609120000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Concurso Internacional de Hipismo - Vivo</title>
+    <category lang="pt">Esporte/Hipismo</category>
+  </programme>
+  <programme start="20180609120000 -0300" stop="20180609143000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Mare Nostrum de Natação - Vivo</title>
+    <category lang="pt">Esporte/Natação</category>
+  </programme>
+  <programme start="20180609143000 -0300" stop="20180609150000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Pré - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609150000 -0300" stop="20180609160000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Fórmula 1: Treino Oficial - GP do Canadá - Vivo</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180609160000 -0300" stop="20180609163000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609163000 -0300" stop="20180609183000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">CSA x CRB - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609183000 -0300" stop="20180609190000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180609190000 -0300" stop="20180609200000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">VT - Atlético PR x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609200000 -0300" stop="20180610000000 -0300" channel="SporTV 3 [Brazil]">
+    <title lang="pt">Tues - Torneio Universitário De E-sports - Vivo</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180603184500 -0300" stop="20180603214500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Chelsea x Manchester United</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180603214500 -0300" stop="20180603233000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Imperatriz x América RN</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180603233000 -0300" stop="20180604013000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Fim de Papo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604013000 -0300" stop="20180604014500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Alê Oliveira Responde</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604014500 -0300" stop="20180604024500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604024500 -0300" stop="20180604043000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Barcelona x Sevilla</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604043000 -0300" stop="20180604060000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Noite dos Craques</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604060000 -0300" stop="20180604080000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Fim de Papo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604080000 -0300" stop="20180604090000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604090000 -0300" stop="20180604104500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Barcelona x Sevilla</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604104500 -0300" stop="20180604123000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Imperatriz x América RN</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604123000 -0300" stop="20180604130000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Nordeste</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604130000 -0300" stop="20180604144500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Real Madrid x Barcelona</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604144500 -0300" stop="20180604154500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">No Ar com André Henning</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604154500 -0300" stop="20180604160000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Futirinhas</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604160000 -0300" stop="20180604170000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604170000 -0300" stop="20180604173000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604173000 -0300" stop="20180604193000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Placa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604193000 -0300" stop="20180604210000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Melhor Futebol do Mundo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604210000 -0300" stop="20180604230000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">+90</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604230000 -0300" stop="20180605003000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Jogando em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605003000 -0300" stop="20180605010000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">10 x 10: Gérson</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605010000 -0300" stop="20180605024500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Real Madrid x Barcelona</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605024500 -0300" stop="20180605030000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Sola</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605030000 -0300" stop="20180605040000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605040000 -0300" stop="20180605060000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Placa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605060000 -0300" stop="20180605073000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Jogando em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605073000 -0300" stop="20180605080000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605080000 -0300" stop="20180605090000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605090000 -0300" stop="20180605104500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Imperatriz x América RN</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605104500 -0300" stop="20180605123000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Real Madrid x Barcelona</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605123000 -0300" stop="20180605130000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">10 x 10: Gérson</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605130000 -0300" stop="20180605144500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Barcelona x Eibar</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605144500 -0300" stop="20180605154500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">No Ar com André Henning</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605154500 -0300" stop="20180605160000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Polêmicas Vazias</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605160000 -0300" stop="20180605170000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605170000 -0300" stop="20180605173000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605173000 -0300" stop="20180605200000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Placa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605200000 -0300" stop="20180605213000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Melhor Futebol do Mundo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605213000 -0300" stop="20180605233000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">+90</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605233000 -0300" stop="20180606003000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Jogando em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606003000 -0300" stop="20180606010000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">10 x 10: Gérson</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606010000 -0300" stop="20180606020000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Caderno de Esportes</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606020000 -0300" stop="20180606021500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Alê Oliveira Responde</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606021500 -0300" stop="20180606023000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Fifando</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606023000 -0300" stop="20180606033000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606033000 -0300" stop="20180606060000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Placa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606060000 -0300" stop="20180606071500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Noite dos Craques</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606071500 -0300" stop="20180606073000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Fifando</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606073000 -0300" stop="20180606080000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606080000 -0300" stop="20180606090000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606090000 -0300" stop="20180606104500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Barcelona x Eibar</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606104500 -0300" stop="20180606123000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Brasileirão de Aspirantes: Atlético PR x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606123000 -0300" stop="20180606130000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">10 x 10: Gérson</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606130000 -0300" stop="20180606144500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Sevilla x Barcelona</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606144500 -0300" stop="20180606151500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606151500 -0300" stop="20180606154500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Nordeste</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606154500 -0300" stop="20180606160000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">VS Ranking</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606160000 -0300" stop="20180606170000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606170000 -0300" stop="20180606173000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606173000 -0300" stop="20180606193000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Placa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606193000 -0300" stop="20180606210000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Melhor Futebol do Mundo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606210000 -0300" stop="20180606230000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">+90</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606230000 -0300" stop="20180607003000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Jogando em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607003000 -0300" stop="20180607014500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Noite dos Craques</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607014500 -0300" stop="20180607024500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Caderno de Esportes</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607024500 -0300" stop="20180607030000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Sola</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607030000 -0300" stop="20180607040000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607040000 -0300" stop="20180607060000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Placa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607060000 -0300" stop="20180607073000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Jogando em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607073000 -0300" stop="20180607080000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607080000 -0300" stop="20180607090000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607090000 -0300" stop="20180607104500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Brasileirão de Aspirantes: Atlético PR x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607104500 -0300" stop="20180607123000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Brasileirão de Aspirantes: Coritiba x América MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607123000 -0300" stop="20180607130000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607130000 -0300" stop="20180607144500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Deportivo La Coruña x Barcelona</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607144500 -0300" stop="20180607151500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">10 x 10: Gérson</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607151500 -0300" stop="20180607154500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">10 x 10: Gérson</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607154500 -0300" stop="20180607160000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Brasil Kickers</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607160000 -0300" stop="20180607170000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607170000 -0300" stop="20180607173000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607173000 -0300" stop="20180607193000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Placa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607193000 -0300" stop="20180607210000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Melhor Futebol do Mundo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607210000 -0300" stop="20180607214500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">+90</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180607214500 -0300" stop="20180607231500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Liga Espanhola de Futsal</title>
+    <category lang="pt">Esporte/Futebol De Salão</category>
+  </programme>
+  <programme start="20180607231500 -0300" stop="20180608010000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Brasileirão de Aspirantes: Sport x Santa Cruz</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608010000 -0300" stop="20180608030000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">+90</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608030000 -0300" stop="20180608040000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608040000 -0300" stop="20180608060000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Placa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608060000 -0300" stop="20180608073000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Liga Espanhola de Futsal</title>
+    <category lang="pt">Esporte/Futebol De Salão</category>
+  </programme>
+  <programme start="20180608073000 -0300" stop="20180608080000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608080000 -0300" stop="20180608090000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608090000 -0300" stop="20180608104500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Brasileirão de Aspirantes: Sport x Santa Cruz</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608104500 -0300" stop="20180608123000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Brasileirão de Aspirantes: Chapecoense x Goias</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608123000 -0300" stop="20180608130000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">10 x 10: Jairzinho</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608130000 -0300" stop="20180608144500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Barcelona x Real Madrid</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608144500 -0300" stop="20180608154500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">No Ar com André Henning</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608154500 -0300" stop="20180608160000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Gol Contra</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608160000 -0300" stop="20180608170000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608170000 -0300" stop="20180608173000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608173000 -0300" stop="20180608193000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Placa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608193000 -0300" stop="20180608210000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Melhor Futebol do Mundo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608210000 -0300" stop="20180608230000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">+90</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608230000 -0300" stop="20180609003000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Jogando em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609003000 -0300" stop="20180609010000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">10 x 10: Dinamite</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609010000 -0300" stop="20180609020000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Caderno de Esportes</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609020000 -0300" stop="20180609030000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">No Ar com André Henning</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609030000 -0300" stop="20180609033000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">10 x 10: Dinamite</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609033000 -0300" stop="20180609040000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">10 x 10: Dinamite</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609040000 -0300" stop="20180609060000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">De Placa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609060000 -0300" stop="20180609073000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Jogando em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609073000 -0300" stop="20180609080000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609080000 -0300" stop="20180609110000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Arsenal x Manchester City</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609110000 -0300" stop="20180609123000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Liga Espanhola de Futsal: ElPozo Murcia x Barcelona</title>
+    <category lang="pt">Esporte/Futebol de Salão</category>
+  </programme>
+  <programme start="20180609123000 -0300" stop="20180609130000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Nordeste</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609130000 -0300" stop="20180609153000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Copa do Mundo de Ginástica Artística: Etapa de Koper, SLO</title>
+    <category lang="pt">Esporte/Ginástica</category>
+  </programme>
+  <programme start="20180609153000 -0300" stop="20180609163000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Melhor Futebol do Mundo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609163000 -0300" stop="20180609173000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">EI Games</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180609173000 -0300" stop="20180609183000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Fórmula Inter</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180609183000 -0300" stop="20180609190000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Mundo da Bola</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609190000 -0300" stop="20180609204500 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Barcelona x Sevilla</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609204500 -0300" stop="20180609230000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">Arquibancada EI: Palmeiras x São Paulo - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609230000 -0300" stop="20180610000000 -0300" channel="Esporte Interativo [Brazil]">
+    <title lang="pt">No Ar com André Henning</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180603210000 -0300" stop="20180603215000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Vozão TV - EP. 55</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180603215000 -0300" stop="20180603230000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Cruzeiro - Ep. 179</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180603230000 -0300" stop="20180604000000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604000000 -0300" stop="20180604010000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604010000 -0300" stop="20180604020000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Internacional x Sport</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604020000 -0300" stop="20180604030000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604030000 -0300" stop="20180604040000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Camarote - Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604040000 -0300" stop="20180604050000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604050000 -0300" stop="20180604060000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604060000 -0300" stop="20180604070000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604070000 -0300" stop="20180604080000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604080000 -0300" stop="20180604090000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604090000 -0300" stop="20180604100000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604100000 -0300" stop="20180604103000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Santos TV Ep. 02</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604103000 -0300" stop="20180604110000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">FLU TV - Ep. 104</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604110000 -0300" stop="20180604113000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Cruzeiro - Ep. 224</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604113000 -0300" stop="20180604120000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Goiás - Ep. 134</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604120000 -0300" stop="20180604123000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Vozão TV - EP. 55</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604123000 -0300" stop="20180604130000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Sempre Estarei Contigo - Ep. 20</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604130000 -0300" stop="20180604140000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Tricolor da Vila - Ep. 04</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604140000 -0300" stop="20180604143000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Sport - Ep. 112</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604143000 -0300" stop="20180604150000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604150000 -0300" stop="20180604160000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604160000 -0300" stop="20180604170000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604170000 -0300" stop="20180604180000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Internacional x Sport</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604180000 -0300" stop="20180604190000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180604190000 -0300" stop="20180604194000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Tricolor da Vila - Ep. 04</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604194000 -0300" stop="20180604200000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604200000 -0300" stop="20180604220000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Paraná x Fluminense - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604220000 -0300" stop="20180604223000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">FLU TV - Ep. 104</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604223000 -0300" stop="20180604230000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Santos TV Ep. 02</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604230000 -0300" stop="20180604233000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Cruzeiro - Ep. 224</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604233000 -0300" stop="20180605000000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Goiás - Ep. 134</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605000000 -0300" stop="20180605003000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Vozão TV - EP. 55</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605003000 -0300" stop="20180605010000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Sempre Estarei Contigo - Ep. 20</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605010000 -0300" stop="20180605013000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Tricolor da Vila - Ep. 04</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605013000 -0300" stop="20180605020000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Sport - Ep. 112</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605020000 -0300" stop="20180605030000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605030000 -0300" stop="20180605040000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Paraná x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605040000 -0300" stop="20180605050000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605050000 -0300" stop="20180605080000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605080000 -0300" stop="20180605090000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Paraná x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605090000 -0300" stop="20180605100000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605100000 -0300" stop="20180605110000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605110000 -0300" stop="20180605120000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Internacional x Sport</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605120000 -0300" stop="20180605130000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605130000 -0300" stop="20180605140000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605140000 -0300" stop="20180605150000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605150000 -0300" stop="20180605160000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605160000 -0300" stop="20180605170000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605170000 -0300" stop="20180605180000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605180000 -0300" stop="20180605185500 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180605185500 -0300" stop="20180605191500 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605191500 -0300" stop="20180605212500 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Figueirense x Londrina - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605212500 -0300" stop="20180605213000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605213000 -0300" stop="20180605233000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">São Paulo x Internacional - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605233000 -0300" stop="20180606000000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">FPF TV - Ep. 17</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606000000 -0300" stop="20180606010000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606010000 -0300" stop="20180606020000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606020000 -0300" stop="20180606030000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Paraná x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606030000 -0300" stop="20180606040000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606040000 -0300" stop="20180606050000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606050000 -0300" stop="20180606060000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606060000 -0300" stop="20180606070000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606070000 -0300" stop="20180606080000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606080000 -0300" stop="20180606090000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606090000 -0300" stop="20180606100000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Paraná x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606100000 -0300" stop="20180606110000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606110000 -0300" stop="20180606120000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606120000 -0300" stop="20180606130000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606130000 -0300" stop="20180606140000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606140000 -0300" stop="20180606150000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606150000 -0300" stop="20180606160000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606160000 -0300" stop="20180606170000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606170000 -0300" stop="20180606180000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Paraná x Fluminense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606180000 -0300" stop="20180606183000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180606183000 -0300" stop="20180606193000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Camarote - Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606193000 -0300" stop="20180606200000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">FPF TV - Ep. 17</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606200000 -0300" stop="20180606204000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Santos TV Ep. 02</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606204000 -0300" stop="20180606210000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606210000 -0300" stop="20180606230000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Corinthians x Santos - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606230000 -0300" stop="20180607000000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Camarote - Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607000000 -0300" stop="20180607010000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607010000 -0300" stop="20180607020000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Botafogo x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607020000 -0300" stop="20180607030000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607030000 -0300" stop="20180607040000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Sport x Atlético PR</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607040000 -0300" stop="20180607050000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vitória x Chapecoense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607050000 -0300" stop="20180607060000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607060000 -0300" stop="20180607070000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607070000 -0300" stop="20180607080000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607080000 -0300" stop="20180607090000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607090000 -0300" stop="20180607100000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Sport x Atlético PR</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607100000 -0300" stop="20180607110000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vitória x Chapecoense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607110000 -0300" stop="20180607120000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180607120000 -0300" stop="20180607130000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607130000 -0300" stop="20180607140000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607140000 -0300" stop="20180607150000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607150000 -0300" stop="20180607160000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Sport x Atlético PR</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607160000 -0300" stop="20180607170000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vitória x Chapecoense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607170000 -0300" stop="20180607180000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Botafogo x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607180000 -0300" stop="20180607190000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607190000 -0300" stop="20180607194000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">FLU TV - Ep. 104</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607194000 -0300" stop="20180607200000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607200000 -0300" stop="20180607220000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Fluminense x Flamengo - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607220000 -0300" stop="20180607230000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607230000 -0300" stop="20180608000000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608000000 -0300" stop="20180608010000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608010000 -0300" stop="20180608020000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608020000 -0300" stop="20180608030000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Paraná x Bahia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608030000 -0300" stop="20180608040000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608040000 -0300" stop="20180608050000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608050000 -0300" stop="20180608060000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Paraná x Bahia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608060000 -0300" stop="20180608070000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Botafogo x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608070000 -0300" stop="20180608080000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608080000 -0300" stop="20180608090000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608090000 -0300" stop="20180608100000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608100000 -0300" stop="20180608110000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Paraná x Bahia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608110000 -0300" stop="20180608120000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180608120000 -0300" stop="20180608123000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">FLU TV - Ep. 104</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608123000 -0300" stop="20180608130000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Santos TV Ep. 02</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608130000 -0300" stop="20180608133000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Cruzeiro - Ep. 224</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608133000 -0300" stop="20180608140000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Goiás - Ep. 134</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608140000 -0300" stop="20180608143000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Vozão TV - EP. 55</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608143000 -0300" stop="20180608150000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Sempre Estarei Contigo - Ep. 20</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608150000 -0300" stop="20180608153000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Tricolor da Vila - Ep. 04</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608153000 -0300" stop="20180608160000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Sport - Ep. 112</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608160000 -0300" stop="20180608163000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Goiás - Ep. 135</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608163000 -0300" stop="20180608173000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608173000 -0300" stop="20180608183000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608183000 -0300" stop="20180608194000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Paraná x Bahia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608194000 -0300" stop="20180608201000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Goiás - Ep. 135</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608201000 -0300" stop="20180608203000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608203000 -0300" stop="20180608223000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Goiás x Paysandu - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608223000 -0300" stop="20180608230000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">TV Goiás - Ep. 135</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608230000 -0300" stop="20180609000000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Camarote - Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609000000 -0300" stop="20180609010000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609010000 -0300" stop="20180609020000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609020000 -0300" stop="20180609030000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Paraná x Bahia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609030000 -0300" stop="20180609040000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Botafogo x Ceará</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609040000 -0300" stop="20180609050000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609050000 -0300" stop="20180609060000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Sport x Atlético PR</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609060000 -0300" stop="20180609070000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Vitória x Chapecoense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609070000 -0300" stop="20180609080000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609080000 -0300" stop="20180609090000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609090000 -0300" stop="20180609100000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609100000 -0300" stop="20180609110000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Paraná x Bahia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609110000 -0300" stop="20180609120000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Corinthians x Santos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609120000 -0300" stop="20180609130000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609130000 -0300" stop="20180609140000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Cruzeiro x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609140000 -0300" stop="20180609150000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Sport x Atlético PR</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609150000 -0300" stop="20180609151000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Giro da Rodada</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180609151000 -0300" stop="20180609154000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">FPF TV - Ep. 17</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609154000 -0300" stop="20180609160000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609160000 -0300" stop="20180609180000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Atlético PR x São Paulo - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609180000 -0300" stop="20180609190000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Fluminense x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609190000 -0300" stop="20180609201000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - América MG x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609201000 -0300" stop="20180609204000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">FPF TV - Ep. 17</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609204000 -0300" stop="20180609210000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Corinthians x Vitória - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609210000 -0300" stop="20180609230000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">Corinthians x Vitória - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609230000 -0300" stop="20180610000000 -0300" channel="Premiere Clubes [Brazil]">
+    <title lang="pt">VT - Atlético PR x São Paulo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180603210000 -0300" stop="20180603230000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">A Última Palavra - Vivo</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180603230000 -0300" stop="20180603235500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180603235500 -0300" stop="20180604000000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Parada Fox Sports</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604000000 -0300" stop="20180604014500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604014500 -0300" stop="20180604021500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Tabelão FOX Sports</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180604021500 -0300" stop="20180604040000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">VT - Peru x Escócia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604040000 -0300" stop="20180604050000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Especial Gols Bonitos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604050000 -0300" stop="20180604070000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Especial Adversários</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180604070000 -0300" stop="20180604090000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">A Última Palavra</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180604090000 -0300" stop="20180604120000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604120000 -0300" stop="20180604124500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604124500 -0300" stop="20180604153000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604153000 -0300" stop="20180604173000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Boa Tarde Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604173000 -0300" stop="20180604200000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Expediente Futebol - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604200000 -0300" stop="20180604210000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180604210000 -0300" stop="20180604230000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Sorteio Libertadores e Sul-americana - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180604230000 -0300" stop="20180605003000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate - Vivo</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180605003000 -0300" stop="20180605013000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605013000 -0300" stop="20180605013500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">I Love Mother Russia</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605013500 -0300" stop="20180605030500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate Final Especialistas</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180605030500 -0300" stop="20180605031000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">I Love Mother Russia</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605031000 -0300" stop="20180605041000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Especial Gols Bonitos</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605041000 -0300" stop="20180605051000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Campeonato Alemão: Review da Temporada</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605051000 -0300" stop="20180605051500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">I Love Mother Russia</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180605051500 -0300" stop="20180605070000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180605070000 -0300" stop="20180605073000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605073000 -0300" stop="20180605090000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180605090000 -0300" stop="20180605120000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605120000 -0300" stop="20180605124500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605124500 -0300" stop="20180605153000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605153000 -0300" stop="20180605173000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Boa Tarde Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605173000 -0300" stop="20180605200000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Expediente Futebol - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605200000 -0300" stop="20180605210000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605210000 -0300" stop="20180605223000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate - Vivo</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180605223000 -0300" stop="20180605233000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180605233000 -0300" stop="20180606003000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Phenoms Road To Russia</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180606003000 -0300" stop="20180606020000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180606020000 -0300" stop="20180606034500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606034500 -0300" stop="20180606051500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Liga ACB: Real Madrid x TBC</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180606051500 -0300" stop="20180606054500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Visão Fox Copa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606054500 -0300" stop="20180606061500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Visão Fox Copa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606061500 -0300" stop="20180606063000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Segunda Pele</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20180606063000 -0300" stop="20180606070000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Messi Artilheiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180606070000 -0300" stop="20180606073000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606073000 -0300" stop="20180606090000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180606090000 -0300" stop="20180606120000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606120000 -0300" stop="20180606124500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606124500 -0300" stop="20180606153000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606153000 -0300" stop="20180606173000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Boa Tarde Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606173000 -0300" stop="20180606200000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Expediente Futebol - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606200000 -0300" stop="20180606210000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180606210000 -0300" stop="20180606223000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate - Vivo</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180606223000 -0300" stop="20180607003000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607003000 -0300" stop="20180607021500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607021500 -0300" stop="20180607023000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Segunda Pele</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20180607023000 -0300" stop="20180607033000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Ale Season Rvw</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607033000 -0300" stop="20180607051500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">VT - Santos x Estudiantes (ARG)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607051500 -0300" stop="20180607070000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">VT - Flamengo x Emelec</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180607070000 -0300" stop="20180607073000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607073000 -0300" stop="20180607090000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180607090000 -0300" stop="20180607120000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607120000 -0300" stop="20180607124500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607124500 -0300" stop="20180607153000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607153000 -0300" stop="20180607173000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Boa Tarde Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607173000 -0300" stop="20180607200000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Expediente Futebol - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607200000 -0300" stop="20180607210000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180607210000 -0300" stop="20180607223000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate - Vivo</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180607223000 -0300" stop="20180608000000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608000000 -0300" stop="20180608014500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608014500 -0300" stop="20180608021500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Ale Secret Facts</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608021500 -0300" stop="20180608031500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Especial Campeões</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608031500 -0300" stop="20180608034500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Visão Fox Copa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608034500 -0300" stop="20180608040000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Segunda Pele</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20180608040000 -0300" stop="20180608050000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Phenoms Road To Russia</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608050000 -0300" stop="20180608060000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Phenoms Road To Russia</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180608060000 -0300" stop="20180608070000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">WWE RAW</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20180608070000 -0300" stop="20180608073000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608073000 -0300" stop="20180608090000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180608090000 -0300" stop="20180608120000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608120000 -0300" stop="20180608124500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608124500 -0300" stop="20180608140000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608140000 -0300" stop="20180608160000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Suíça x Japão - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180608160000 -0300" stop="20180608173000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Boa Tarde Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608173000 -0300" stop="20180608200000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Expediente Futebol - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608200000 -0300" stop="20180608210000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608210000 -0300" stop="20180608223000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate - Vivo</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180608223000 -0300" stop="20180608233000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180608233000 -0300" stop="20180609000000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Visão Fox Copa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609000000 -0300" stop="20180609014500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">VT - Suíça x Japão</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609014500 -0300" stop="20180609033000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609033000 -0300" stop="20180609050000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180609050000 -0300" stop="20180609053000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Visão Fox Copa</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609053000 -0300" stop="20180609054500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Segunda Pele</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20180609054500 -0300" stop="20180609064500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Especial Campeões</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609064500 -0300" stop="20180609070000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609070000 -0300" stop="20180609071500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609071500 -0300" stop="20180609084500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180609084500 -0300" stop="20180609090000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Segunda Pele</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20180609090000 -0300" stop="20180609120000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609120000 -0300" stop="20180609123000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609123000 -0300" stop="20180609143000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Hungria x Austrália - Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180609143000 -0300" stop="20180609170000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Fox Sports Rádio - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609170000 -0300" stop="20180609200000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Expediente Futebol - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609200000 -0300" stop="20180609210000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609210000 -0300" stop="20180609223000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Debate - Vivo</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180609223000 -0300" stop="20180609233000 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Central Fox - Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180609233000 -0300" stop="20180610011500 -0300" channel="Fox Sports [Brazil]">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+</tv>
